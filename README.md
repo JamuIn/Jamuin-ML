@@ -10,4 +10,4 @@ a machine learning model was created to classify images of herbal ingredients th
 
 # Dataset:
 dataset of herbal ingredients obtained by scraping, and manually
-Preview of the image and data used are shown in the picture below:
+<p>Preview of the image and data used are shown in the picture below:</p>

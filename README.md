@@ -1,6 +1,7 @@
 # Jamuin-ML
 # Introduction
-coming soon
+<p align='center'>Team ID:C23-PS445 </p><br>
+
 ## Our Machine Learning Team
 - Dian Alhusari (M151DSX1521) - Universitas Brawijaya 
 - Yohanes Egi Pratama Yudoutomo (M356DKX4808) - Universitas Teknokrat Indonesia

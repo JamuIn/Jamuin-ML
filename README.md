@@ -12,3 +12,4 @@ a machine learning model was created to classify images of herbal ingredients th
 # Dataset:
 dataset of herbal ingredients obtained by scraping, and manually
 <p>Preview of the image and data used are shown in the picture below:</p>
+<img src="https://github.com/JamuIn/Jamuin-ML/blob/main/Dataset/assetdata.PNG?raw=true"

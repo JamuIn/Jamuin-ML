@@ -10,7 +10,7 @@
 a machine learning model was created to classify images of herbal ingredients that we often encounter to be recommended into herbal products, including:
 
 # Dataset:
-dataset of herbal ingredients obtained by scraping, and manually
+dataset of herbal ingredients obtained by scraping, and manually [data](https://drive.google.com/drive/folders/1KDyy5kXO6M25G-KQ7x3pyj171u4ZTk81?usp=drive_link)
 <p>Preview of the image and data used are shown in the picture below:</p>
 <h5>Kunyit</h5>
 <img src="https://github.com/JamuIn/Jamuin-ML/blob/main/Dataset/assetdata.PNG?raw=true"

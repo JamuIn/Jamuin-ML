@@ -15,5 +15,7 @@ dataset of herbal ingredients obtained by scraping, and manually [data](https://
 <h5>Kunyit</h5>
 <img src="https://github.com/JamuIn/Jamuin-ML/blob/main/Dataset/assetdata.PNG?raw=true"
      title="Kunyit">
-## Arsitektur Model
-![image]()
+     
+# Arsitektur Model
+Arsitektur Model
+<center><img src="Model/arsitektur.png"></center>

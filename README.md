@@ -34,8 +34,8 @@ Arsitektur Model
 4. Create file named "Dockerfile" for run system in our container
 5. Create file named ".dockerignore" for ignore system to ignore spesific file.
 6. Create folder static/uploads to save photos for prediction progress.
-7. Create new Project in Google Cloud
-8. Active Cloud Run API and Cloud Build API
+7. Create new Project in Google Cloud Platform
+8. Active <b>Cloud Run API</b> and <b>Cloud Build API</b>
 9. Install and init Google Cloud SDK (Use this link : <b>https://cloud.google.com/sdk/docs/install</b>)
 10. Use Cloud Build to import our code to our cloud services (<b> gcloud builds submit --tag gcr.io/<project_id>/<function_name></b>)
 11. Use Cloud Run to deploy our API (<b> gcloud run deploy --image gcr.io/<project_id>/<function_name> --platform managed </b>)

@@ -9,6 +9,13 @@
 # Model Description:
 a machine learning model was created to classify images of herbal ingredients that we often encounter to be recommended into herbal products, including:
 
+## Built with
+- [Python](https://www.python.org/ "Python")
+- [TensorFlow](https://www.tensorflow.org/ "TensorFlow")
+- [Flask](https://flask.palletsprojects.com/en/2.1.x/ "Flask")
+- [Google Cloud Run](https://cloud.google.com/run)
+- [Google Colab](https://colab.research.google.com/ "Google Colab")
+
 # Dataset:
 dataset of herbal ingredients obtained by scraping, and manually [data](https://drive.google.com/drive/folders/1KDyy5kXO6M25G-KQ7x3pyj171u4ZTk81?usp=drive_link)
 <p>Preview of the image and data used are shown in the picture below:</p>

@@ -36,6 +36,6 @@ Arsitektur Model
 6. Create folder static/uploads to save photos for prediction progress.
 7. Create new Project in Google Cloud
 8. Active Cloud Run API and Cloud Build API
-9. Install and init Google Cloud SDK (U can Use this link : https://cloud.google.com/sdk/docs/install)
-10. Use Cloud Build to import our code to our cloud services (gcloud builds submit --tag gcr.io/<project_id>/<function_name>)
-11. Use Cloud Run to deploy our API (gcloud run deploy --image gcr.io/<project_id>/<function_name> --platform managed)
+9. Install and init Google Cloud SDK (Use this link : <b>https://cloud.google.com/sdk/docs/install</b>)
+10. Use Cloud Build to import our code to our cloud services (<b> gcloud builds submit --tag gcr.io/<project_id>/<function_name></b>)
+11. Use Cloud Run to deploy our API (<b> gcloud run deploy --image gcr.io/<project_id>/<function_name> --platform managed </b>)

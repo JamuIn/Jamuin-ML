@@ -3,8 +3,8 @@
 <p align='center'>Team ID:C23-PS445 </p><br>
 
 ## Our Machine Learning Team
-- Dian Alhusari (M151DSX1521) - Universitas Brawijaya 
-- Yohanes Egi Pratama Yudoutomo (M356DKX4808) - Universitas Teknokrat Indonesia
+- Dian Alhusari (M151DSX1521) - Universitas Brawijaya [Github](https://github.com/alhusari2)
+- Yohanes Egi Pratama Yudoutomo (M356DKX4808) - Universitas Teknokrat Indonesia [Github](https://github.com/hanesegi)
 
 # Model Description:
 a machine learning model was created to classify images of herbal ingredients that we often encounter to be recommended into herbal products, including:

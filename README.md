@@ -26,3 +26,16 @@ dataset of herbal ingredients obtained by scraping, and manually [data](https://
 # Arsitektur Model
 Arsitektur Model
 <center><img src="Model/arsitektur.png"></center>
+
+# Make RESTfull API with Flask and Cloud Run
+1. Prepare prediction model in "h.5" format, file are stored in "ML-Backend" folder 
+2. Write main.py base on machine learning testing model, files are saved in the "ML-Backend" folder
+3. Create file named "requirement.txt" for library you need for running our code
+4. Create file named "Dockerfile" for run system in our container
+5. Create file named ".dockerignore" for ignore system to ignore spesific file.
+6. Create folder static/uploads to save photos for prediction progress.
+7. Create new Project in Google Cloud
+8. Active Cloud Run API and Cloud Build API
+9. Install and init Google Cloud SDK (U can Use this link : https://cloud.google.com/sdk/docs/install)
+10. Use Cloud Build to import our code to our cloud services (gcloud builds submit --tag gcr.io/<project_id>/<function_name>)
+11. Use Cloud Run to deploy our API (gcloud run deploy --image gcr.io/<project_id>/<function_name> --platform managed)

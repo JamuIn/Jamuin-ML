@@ -2,9 +2,13 @@
 # Introduction
 <p align='center'>Team ID:C23-PS445 </p><br>
 
-## Our Machine Learning Team
-- Dian Alhusari (M151DSX1521) - Universitas Brawijaya [Github](https://github.com/alhusari2)
-- Yohanes Egi Pratama Yudoutomo (M356DKX4808) - Universitas Teknokrat Indonesia [Github](https://github.com/hanesegi)
+## Contributors
+
+| Name                           | Specialization     | Role                           |
+| -------------------------------| ------------------ | -------------------------------|
+| Yohanes Egi Pratama Yudoutomo  | Machine Learning   | ML Engineer                    | [Github](https://github.com/hanesegi)
+| Dian Alhusari                  | Machine Learning   | ML Engineer                    | [Github](https://github.com/alhusari2)
+| Muhammad Faishal Azhar Suherman| Cloud Computing    | Cloud Engineer (ML Deployment) | [Github](https://github.com/Faishal25) 
 
 # Model Description:
 a machine learning model was created to classify images of herbal ingredients that we often encounter to be recommended into herbal products, including:

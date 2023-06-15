@@ -4,11 +4,11 @@
 
 ## Contributors
 
-| Name                           | Specialization     | Role                           |
-| -------------------------------| ------------------ | -------------------------------|
-| Yohanes Egi Pratama Yudoutomo  | Machine Learning   | ML Engineer                    | [Github](https://github.com/hanesegi)
-| Dian Alhusari                  | Machine Learning   | ML Engineer                    | [Github](https://github.com/alhusari2)
-| Muhammad Faishal Azhar Suherman| Cloud Computing    | Cloud Engineer (ML Deployment) | [Github](https://github.com/Faishal25) 
+| Name                           | Specialization     | Role                           | Profile                               |
+| -------------------------------| ------------------ | -------------------------------| --------------------------------------|
+| Yohanes Egi Pratama Yudoutomo  | Machine Learning   | ML Engineer                    | [Github](https://github.com/hanesegi) |
+| Dian Alhusari                  | Machine Learning   | ML Engineer                    | [Github](https://github.com/alhusari2)|
+| Muhammad Faishal Azhar Suherman| Cloud Computing    | Cloud Engineer (ML Deployment) | [Github](https://github.com/Faishal25)| 
 
 # Model Description:
 a machine learning model was created to classify images of herbal ingredients that we often encounter to be recommended into herbal products, including:
